@@ -1,1 +1,1 @@
-# libreai-2
+# localai
